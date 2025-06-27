@@ -2,7 +2,7 @@
 /*
 Template Name: Landing Page
 */
-get_header('landing');
+get_header();
 ?>
 <main id="site-content" role="main" class="landing-page">
     <section class="landing-hero">
@@ -97,4 +97,4 @@ get_header('landing');
 
 
 </main>
-<?php get_footer('landing'); ?>
+<?php get_footer(); ?>
